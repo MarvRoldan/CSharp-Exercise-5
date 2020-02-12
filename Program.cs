@@ -6,7 +6,8 @@ namespace CSharp___Exercise_5
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string[] stuff = new string[10]
+            
         }
     }
 }
